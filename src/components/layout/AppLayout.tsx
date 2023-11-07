@@ -2,8 +2,8 @@ import Head from 'next/head';
 import Image from 'next/image';
 import { PropsWithChildren } from 'react';
 
-import Planet1 from '../../images/planets/planet-1.webp';
-import Planet2 from '../../images/planets/planet-2.webp';
+import Planet1 from '../../images/planets/planet-1.svg';
+import Planet2 from '../../images/planets/planet-2.svg';
 import { Footer } from '../nav/Footer';
 import { Header } from '../nav/Header';
 

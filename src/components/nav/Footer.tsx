@@ -37,8 +37,9 @@ export function Footer() {
               <HyperlaneLogo fill={Color.primaryWhite} />
             </div>
             <div className="text-lg sm:text-xl font-medium ml-6 space-y-1 ">
-              <div>Go Interchain</div>
-              <div>With Hyperlane</div>
+              < br />
+              < br />
+              <div>Engram Network</div>
             </div>
           </div>
           <nav className="flex text-md font-medium">
